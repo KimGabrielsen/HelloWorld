@@ -16,7 +16,7 @@ public class RunMe {
 		
         i++;i++;i++;
         
-        
+        System.out.println("Så er faciliteten færdig...");
 	}
 
 }
